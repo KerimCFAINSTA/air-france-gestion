@@ -1,4 +1,4 @@
-# ✈️ Air France - Système de Gestion des Vols
+#  Air France - Système de Gestion des Vols
 
 ![Air France](https://img.shields.io/badge/Air%20France-Gestion%20des%20Vols-002157?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTIxIDEybC0xOCAxMiA1LTEyLTUtMTJ6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -9,7 +9,7 @@ Application web de gestion des affectations de vols pour Air France, développé
 
 ---
 
-## 📋 Table des matières
+##  Table des matières
 
 - [Fonctionnalités](#-fonctionnalités)
 - [Technologies](#-technologies)
@@ -27,26 +27,26 @@ Application web de gestion des affectations de vols pour Air France, développé
 
 ---
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-### 🧑‍✈️ Gestion des Pilotes
+###  Gestion des Pilotes
 - ✅ Ajouter, modifier, supprimer des pilotes
 - ✅ Informations complètes : nom, prénom, email, bip, statut
 - ✅ Statuts : Capitaine, Copilote, Instructeur
 - ✅ Mots de passe sécurisés (hashage bcrypt)
 
-### ✈️ Gestion des Avions
+###  Gestion des Avions
 - ✅ Catalogue de la flotte Air France
 - ✅ Désignation, constructeur, nombre de places
 - ✅ CRUD complet (Create, Read, Update, Delete)
 
-### 🛫 Gestion des Vols
+###  Gestion des Vols
 - ✅ Planification des vols avec date et heure
 - ✅ Affectation de 2 pilotes (capitaine + copilote)
 - ✅ Association avec un avion
 - ✅ Visualisation claire des affectations
 
-### 🎨 Interface Moderne
+###  Interface Moderne
 - ✅ Design aux couleurs Air France (bleu #002157 + rouge #ed1c24)
 - ✅ Icônes Font Awesome
 - ✅ Responsive (mobile-friendly)
@@ -54,7 +54,7 @@ Application web de gestion des affectations de vols pour Air France, développé
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 | Technologie | Version | Usage |
 |------------|---------|-------|
@@ -67,6 +67,6 @@ Application web de gestion des affectations de vols pour Air France, développé
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ### Modèle MVC (Model-View-Controller)
